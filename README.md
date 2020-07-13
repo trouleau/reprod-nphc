@@ -12,3 +12,5 @@ conda create -n reprod-nphc python=3.7
 conda activate reprod-nphc
 pip install -r requirements.txt
 ```
+
+Note that `tensorflow==1.13.1` is used to avoid deprecation warnings with `tick.hawkes.HawkesCumulantMatching`.
