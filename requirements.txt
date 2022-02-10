@@ -1,5 +1,5 @@
 numpy==1.16.4
 tick==0.7.0.1
-tensorflow==1.13.1
+tensorflow==2.5.3
 jupyter==1.0.0
 matplotlib==3.2.1
