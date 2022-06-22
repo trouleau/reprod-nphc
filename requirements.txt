@@ -1,4 +1,4 @@
-numpy==1.16.4
+numpy==1.22.0
 tick==0.7.0.1
 tensorflow==1.13.1
 jupyter==1.0.0
